@@ -10,3 +10,6 @@
 // let b = Math.floor((a / 100) % 10);
 // console.log(b);
 //  1-masala
+
+let a = 5;
+let b = 10;
