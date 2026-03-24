@@ -7,4 +7,5 @@
 // 2-masala
 
 let a = 1235;
-console.log();
+let b = Math.floor
+console.log(s);
