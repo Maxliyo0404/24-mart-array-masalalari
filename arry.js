@@ -24,7 +24,7 @@
 let son = 458;
 let  birlar = Math.floor((son % 10));
 let onlar = Math.floor((son / 10) % 10);
-let yuz
+let yuz = 
 console.log(birlar);
 console.log(onlar);
 
