@@ -16,3 +16,6 @@ let b = 10;
 
 let S = a * b;
 let P = 2 * (a +b);
+console.log(S);
+console.log(P);
+
