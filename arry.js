@@ -32,3 +32,4 @@
 
 
 // 3-masala
+let nums =123;
