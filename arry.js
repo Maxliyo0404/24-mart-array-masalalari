@@ -33,3 +33,7 @@
 
 // 3-masala
 let nums =123;
+
+let b = nums % 10;
+let
+console.log(b);
