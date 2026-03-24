@@ -37,4 +37,5 @@ let nums =123;
 let b = nums % 10;
 let a = Math.floor((nums / 10 ) % 10);
 let c = Math.floor(nums / 100 );
+let resultat = ( a * 100)
 console.log(c);
