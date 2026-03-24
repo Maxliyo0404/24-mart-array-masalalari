@@ -32,7 +32,7 @@
 
 
 // 3-masala
-let nums =123;
+// let nums =123;
 
 let b = nums % 10;
 let a = Math.floor((nums / 10 ) % 10);
