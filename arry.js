@@ -9,6 +9,7 @@
 // let a = 1235;
 // let b = Math.floor((a / 100) % 10);
 // console.log(b);
+
 //  1-masala
 
 // let a = 5;
@@ -18,4 +19,6 @@
 // let P = 2 * (a +b);
 // console.log(S);
 // console.log(P);
+
+// 2-masala
 
