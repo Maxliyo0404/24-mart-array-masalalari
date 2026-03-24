@@ -6,6 +6,6 @@
 
 // 2-masala
 
-let a = 1235;
-let b = Math.floor((a / 100) % 10);
-console.log(b);
+// let a = 1235;
+// let b = Math.floor((a / 100) % 10);
+// console.log(b);
