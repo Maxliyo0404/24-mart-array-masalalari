@@ -9,3 +9,4 @@
 // let a = 1235;
 // let b = Math.floor((a / 100) % 10);
 // console.log(b);
+//  1-masala
