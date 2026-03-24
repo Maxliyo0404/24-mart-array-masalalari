@@ -5,3 +5,6 @@
 // console.log(c);
 
 // 2-masala
+
+let a = 1235;
+console.log();
