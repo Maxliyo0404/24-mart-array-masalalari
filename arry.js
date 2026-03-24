@@ -34,8 +34,8 @@
 // 3-masala
 // let nums =123;
 
-let b = nums % 10;
-let a = Math.floor((nums / 10 ) % 10);
+// let b = nums % 10;
+// let a = Math.floor((nums / 10 ) % 10);
 let c = Math.floor(nums / 100 );
 let resultat = ( a * 100) + ( c * 10) + b
 console.log(resultat);
