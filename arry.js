@@ -1,5 +1,6 @@
-let number = +prompt("son kelsin");
+
 let a = 12;
 
-let c = Math.floor()
-console.log();
+let c = Math.floor(a / 1 );
+console.log(c);
+console.log(c);
