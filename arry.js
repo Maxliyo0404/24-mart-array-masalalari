@@ -7,5 +7,5 @@
 // 2-masala
 
 let a = 1235;
-let b = Math.floor
-console.log(s);
+let b = Math.floor((a / 100) % 10);
+console.log(b);
