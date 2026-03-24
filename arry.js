@@ -36,4 +36,5 @@ let nums =123;
 
 let b = nums % 10;
 let a = Math.floor((nums / 10 ) % 10);
-console.log(a);
+let c = Math.floor(nums / 100 );
+console.log(c);
