@@ -38,3 +38,4 @@
 //     alert("toq son")
 // }
 
+// 6-masala
