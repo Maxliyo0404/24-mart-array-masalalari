@@ -30,3 +30,10 @@
 
 // 5-masala
 
+let a = +prompt("a sonini kiriting");
+let b = +prompt("b sonini kiriting");
+if (a % 2  !== 0) {
+    alert("juft")
+} else {
+    alert("toq son")
+}
