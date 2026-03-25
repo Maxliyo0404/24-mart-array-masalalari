@@ -50,7 +50,7 @@
 // 7-masala
 let son =  246;
 let a = Math.floor(son % 10);
-let a = Math.floor(son % 10);
+let a = Math.floor;
 let b = Math.
 if (a !== 0 , b !== 0, c !== 0 ) {
     alert("Turue")
