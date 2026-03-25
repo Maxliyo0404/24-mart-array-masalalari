@@ -19,12 +19,14 @@
 //     alert("false")
 // }
 // 4-masala
-let a = +prompt("a sonini kiriting");
-let b = +prompt("b sonini kiriting");
-let c = +prompt("c sonini kiriting");
-if (a <= b && b <= c) {
-    alert("true")
-} else {
-    alert("false")
-}
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// let c = +prompt("c sonini kiriting");
+// if (a <= b && b <= c) {
+//     alert("true")
+// } else {
+//     alert("false")
+// }
+
+// 5-masala
 
