@@ -9,5 +9,5 @@
 // let a = +prompt("a sonini kiriting");
 // let natija = (a % 2 !== 0) ? alert("A soni toq") : alert("a soni toq emas");
 
-
+// 3-masala
 
