@@ -51,7 +51,7 @@
 let son =  246;
 let a = Math.floor(son % 10);
 let b = Math.floor((son / 10) % 10);
-let b = Math.
+let b = Math.floor
 if (a !== 0 , b !== 0, c !== 0 ) {
     alert("Turue")
 } else {
