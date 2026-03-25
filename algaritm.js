@@ -6,8 +6,8 @@
 // }
 // 2-masala
 
-let a = +prompt("a sonini kiriting");
-let natija = (a % 2 !== 0) ? alert("A soni toq"); alert("a soni toq emas");
+// let a = +prompt("a sonini kiriting");
+// let natija = (a % 2 !== 0) ? alert("A soni toq") : alert("a soni toq emas");
 
 
 
