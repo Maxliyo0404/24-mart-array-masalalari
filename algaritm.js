@@ -48,11 +48,9 @@
 //     alert("false")
 //  }
 // 7-masala
-let son = +prompt("son kiriting");
-let a = 2;
-let b= 4;
-let c = 6;
-
+let son =  246;
+let a = Math.floor(son % 10);
+let b = Math.
 if (a !== 0 , b !== 0, c !== 0 ) {
     alert("Turue")
 } else {
